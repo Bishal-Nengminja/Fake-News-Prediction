@@ -1,2 +1,2 @@
 # Fake-News-Prediction
-Given various features of news articles, I aimed to identify the factors that differentiate real news from fake news. I utilized classification models to predict whether a given news article is real or fake.
+In this project, we delve into the challenge of distinguishing between genuine and fabricated news. Leveraging various textual features of news articles, our goal was to construct a predictive model. By employing classification techniques, we sought to accurately categorize news items as either real or fake.
